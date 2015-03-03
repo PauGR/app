@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="fons">#fff6f0dc</color>
+    <color name="vermell">#c15f5f</color>
+    <color name="verd">#49a56e</color>
+    <color name="blau">#1b6c9e</color>
+<color name="blau_fosc">#ff154971</color>
+
+
+</resources>

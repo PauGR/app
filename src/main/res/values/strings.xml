@@ -1,0 +1,218 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Receptes</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_llistat_receptes">Llistat de receptes</string>
+    <string name="begudes">Llistat de begudes</string>
+    <string name="postres">Llistat de postres</string>
+    <string name="title_activity_detall_recepta">Recepta</string>
+    <string name="ingredients">Ingredients</string>
+    <string name="procediment">Procediment</string>
+    <string name="llicencia">© Pau Guillaumes - 2015 - CC-BY-NC</string>
+    <string name="titol_1">Croquetes de mill a la cúrcuma</string>
+    <string name="ing_1">
+<![CDATA[
+        <ul>
+            <li>Croquetes de mill a la cúrcuma</li>
+            <li>1 vas (250 ml) de mill</li>
+            <li>3 vasos d’aigua</li>
+            <li>cebes mitjanes, a daus ben petits</li>
+            <li>½ culleradeta de cúrcuma en pols</li>
+            <li>Pebre negre acabat de moldre</li>
+            <li>1 grapat d’avellanes torrades, pelades i trinxades</li>
+            <li>2 cullerades de sèsam lleugerament torrat i mòlt</li>
+
+        </ul>]]>
+    </string>
+    <string name="proc_1">
+<![CDATA[
+        <ul>
+        <li>Poseu dues cullerades d’oli en una cassola de fons gruixut i salteu la ceba amb un pessic de sal. Deixeu-la coure 10 minuts, remenant de tant en tant, fins que comenci a enrossir-se.</li>
+        <li>Torreu el mill en una paella sense oli, tot remenant uns 3 minuts. No ha de canviar de color.</li>
+        <li>Afegiu-lo a la ceba amb la cúrcuma, el pebre, 3 vasos d’aigua i un parell de pessics de sal. Remeneu-ho, tapeu-ho i feu que arrenqui el bull a foc viu. Deixeu-ho coure, tapat i a foc suau, uns 25 minuts.</li>
+        <li>Aparteu-ho del foc, afegiu-hi el sèsam i les avellanes i remeneu-ho bé per lligar la massa. Deixeu-ho refredar una mica.</li>
+        <li> Agafeu cullerades de massa i feu-ne croquetes amb les mans humides o quenelles, amb dues culleres.</li>
+        <li> Poseu-les en una plata per anar al forn sobre un full de paper vegetal i pinzelleu-les amb oli de coco o d’oliva verge extra. Enrossiu-les al forn calent.</li>
+        </ul>]]>
+    </string>
+    <string name="link_1">http://www.etselquemenges.cat</string>
+    <string name="img_1">http://www.pauguillaumes.honor.es/imatges/croquetes.png</string>
+    <string name="titol_2">Pasta al pesto d\'alvocat (2 persones)</string>
+    <string name="ing_2">
+<![CDATA[
+        <ul>
+
+       <li> Un manat d\'alfàbrega (35 g. Aprox.)</li>
+<li>1 alvocat madur</li>
+<li>250 g. de pasta (tria la que més t\'agradi)</li>
+<li>50 g. de pinyons (també pots utilitzar ametlles, per exemple)</li>
+<li>4 cullerades d\'oli d\'oliva (millor si és verge extra)</li>
+<li>2 cullerades de suc de llimona</li>
+<li>2 grans d\'all</li>
+<li>Sal i pebre</li>
+<li>6 tomàquets tipus cherry (opcional)</li>
+
+        </ul>]]>
+    </string>
+    <string name="proc_2">
+<![CDATA[
+        <ul>
+        <li>En una olla gran posem a escalfar a foc alt una quantitat generosa d\'aigua per bullir la pasta. Mentre s\'escalfa anem preparant la salsa. La idea és tenir sempre la salsa preparada abans que es cogui la pasta, d\'aquesta manera evitem que s\'assequi.</li>
+        <li>En el got de la batedora (o en el processador d\'aliments) posem l\'alvocat sense pell i sense os, l\'alfàbrega (reservant unes fulles per decorar), els pinyons, les dents d\'all pelats i trossejats, l\'oli i la llimona. Salpebrem i batem bé el nostre pesto d\'alvocat. Reservem.</li>
+        <li>Quan l\'aigua de l\'olla entri en ebullició coem la pasta els minuts justos que indica el fabricant. Que no us passi la pasta! Mentre es fa afegim una mica de sal.</li>
+        <li>Un cop la pasta estigui al dente la colem i la barregem immediatament amb la salsa de pesto d\'alvocat. Servim al moment decorant els plats amb unes fulletes d\'alfàbrega i si volem uns tomàquets cherry tallats per la meitat. Simplement deliciós.</li>
+
+
+     </ul>]]>
+    </string>
+    <string name="link_2">http://www.vegetarianismo.net/recetas/pasta-pesto-aguacate.php</string>
+    <string name="img_2">http://www.pauguillaumes.honor.es/imatges/pasta.jpg</string>
+    <string name="titol_3">Hummus de remolatxa</string>
+    <string name="ing_3">
+<![CDATA[
+        <ul>
+        <li>400 g. de cigrons cuits</li>
+        <li>200 g. de remolatxa cuita</li>
+        <li>2 grans d\'all (pelats i en trossets)</li>
+        <li>1 cullerada de tahine (pasta de sèsam)</li>
+        <li>El suc de mitja llimona</li>
+        <li>2 cullerades d\'oli d\'oliva verge</li>
+        <li>1 cullerada de comí mòlt</li>
+        <li>½ culleradeta de sal</li>
+
+
+
+        </ul>]]>
+    </string>
+    <string name="proc_3">
+<![CDATA[
+        <ul>
+        <li>La preparació de la recepta d\'hummus de remolatxa és tan senzilla com la recepta d\'hummus tradicional. Consisteix en moldre tots els ingredients junts, si és possible, amb una batedora o processador d\'aliments (el que ens permetrà tenir preparada la recepta en un momentet).</li>
+        <li>Si aneu a utilitzar cigrons "de pot", us aconsellem que renteu primer els cigrons sota l\'aixeta amb l\'ajuda d\'un colador. Si us animeu a coure a casa els cigrons haureu deixar-los en remull la nit abans (almenys 8 hores de remull). El truc per coure els cigrons és tirar a l\'aigua (sense sal) una vegada que estigui bullint. Els portarà unes 2 hores acabar de coure. Llavors només queda escórrer i que es refredin. La mesura de cigrons en sec serà d\'uns 150 grams.</li>
+        <li>Sobre la remolatxa: per ajudar a la batedora és recomanable que primer talleu a trossets la remolatxa cuita. Amb la remolatxa passa igual, teniu l\'opció d\'utilitzar remolatxa ja cuita o cuinar a casa. Igual que amb els cigrons, si coeu la remolatxa a casa, echadla al cassó quan l\'aigua estigui bullint. Triga a coure una hora aproximadament i podeu comprovar que està al punt punxant una forquilla.</li>
+        <li>Respecte al tahini (pasta de sèsam), dir que sempre li aporta un toc de sabor a hummus i més afegeix calci a la recepta. El sèsam és dels ingredients vegans amb més quantitat de calci. No obstant això, depenent del lloc on estigueu pot ser més o menys complicat trobar tahine, així que si no el teniu a mà, prescindir del tahini, que la recepta no patirà massa canvi pel que fa a gust es refereix.</li>
+        <li>Finalment, només recordar-vos l\'important que és que no us coli cap llavor de llimona. El gust amarg de les pipes de llimona arruïnarà el sabor del nostre colorit hummus de remolatxa.</li>
+
+     </ul>]]>
+    </string>
+    <string name="link_3">http://www.vegetarianismo.net/recetas/hummus-remolacha.php</string>
+    <string name="img_3">http://www.pauguillaumes.honor.es/imatges/hummus.jpg</string>
+    <string name="titol_4">Galetes de civada i panses</string>
+    <string name="ing_4">
+<![CDATA[
+        <ul>
+        <li>1 tassa de civada</li>
+        <li>1 tassa de farina integral
+</li>
+        <li>1/2 tassa de sucre de canya</li>
+        <li>5 cullerades de melassa (d\'arròs, de canya, etc.)</li>
+        <li>1/2 tassa d\'oli</li>
+        <li>1/2 tassa de llet de soja</li>
+        <li> 2 culleradetes d\'extracte de vainilla</li>
+        <li>Canyella en pols (al gust)</li>
+        <li>Passes (al gust)</li>
+        <li>1 cullerada de llevat</li>
+
+
+        </ul>]]>
+    </string>
+    <string name="proc_4">
+<![CDATA[
+        <ul>
+        <li>Es posen els ingredients en un bol i es barregen tots poc a poc.</li>
+        <li>Amb la barreja resultant, es fan boletes amb la cullera, es posen sobre el paper d\'enfornar i s\'aixafen.</li>
+        <li>Per acabar es posen al forn a 180º durant 15-20 minuts, és a dir, fins que estiguin daurades per sobre.</li>
+
+
+     </ul>]]>
+    </string>
+    <string name="link_4">http://www.vegetarianismo.net/recetas/galletas-avena-pasas.html</string>
+    <string name="img_4">http://www.pauguillaumes.honor.es/imatges/cookies.jpg</string>
+    <string name="titol_5">Còctel americà</string>
+    <string name="ing_5">
+<![CDATA[
+        <ul>
+
+        <li> 3 cl de Campari </li>
+        <li>3 cl de vermut vermell</li>
+        <li>Soda</li>
+        </ul>]]>
+    </string>
+    <string name="proc_5">
+<![CDATA[
+        <ul>
+        <li>Barrejar els ingredients directament en un got ample (old-fashioned) ple de gel.</li>
+        <li>Afegir soda</li>
+        <li>Decorar amb mitja rodanxa de taronja</li>
+
+
+     </ul>]]>
+    </string>
+    <string name="link_5">http://www.verema.com/blog/licores-destilados/1022979-cocteles-alcohol-recetas-mas-populares-faciles-hacer</string>
+    <string name="img_5">http://www.pauguillaumes.honor.es/imatges/america.jpg</string>
+    <string name="titol_6">Còctel Bacardi</string>
+    <string name="ing_6">
+<![CDATA[
+        <ul>
+        <li>4.5 cl de rom blanc Bacardi.</li>
+        <li>2 cl de suc de llima. </li>
+        <li>1 cl de granadina </li>
+
+        </ul>]]>
+    </string>
+    <string name="proc_6">
+<![CDATA[
+        <ul>
+        <li>Abocar tots els ingredients amb gel</li>
+        <li>Agitar i colar en un got de còctel fred.</li>
+
+
+     </ul>]]>
+    </string>
+    <string name="link_6">http://www.verema.com/blog/licores-destilados/1022979-cocteles-alcohol-recetas-mas-populares-faciles-hacer</string>
+    <string name="img_6">http://www.pauguillaumes.honor.es/imatges/bacardi.jpg</string>
+    <string name="titol_7">Còctel Harvey Wallbanger</string>
+    <string name="ing_7">
+<![CDATA[
+        <ul>
+        <li>4.5 cl de vodka </li>
+        <li>1.5 cl Galliano </li>
+        <li>9 cl de suc de taronja </li>
+        </ul>]]>
+    </string>
+    <string name="proc_7">
+<![CDATA[
+        <ul>
+        <li>Posar vodka i suc de taronja en un got llarg ple de gel</li>
+        <li>Remenar suaument i Boyar el Galliano a la superfície.</li>
+        <li>Decorar amb rodanxes de taronja i cirera.</li>
+
+     </ul>]]>
+    </string>
+    <string name="link_7">http://www.verema.com/blog/licores-destilados/1022979-cocteles-alcohol-recetas-mas-populares-faciles-hacer</string>
+    <string name="img_7">http://www.pauguillaumes.honor.es/imatges/harvey.jpg</string>
+    <string name="titol_8">Screw Driver</string>
+    <string name="ing_8">
+<![CDATA[
+        <ul>
+        <li>5 cl de vodka </li>
+        <li>10 cl de suc de taronja </li>
+
+        </ul>]]>
+    </string>
+    <string name="proc_8">
+<![CDATA[
+        <ul>
+        <li>Posar tots els ingredients en un got llarg ple de gel.</li>
+        <li>Remenar suaument i decorar amb una rodanxa de taronja</li>
+
+
+     </ul>]]>
+    </string>
+    <string name="link_8">http://www.verema.com/blog/licores-destilados/1022979-cocteles-alcohol-recetas-mas-populares-faciles-hacer</string>
+    <string name="img_8">http://www.pauguillaumes.honor.es/imatges/screw.jpg</string>
+    <string name="title_activity_crea_recepta">Crea una nova recepta</string>
+<string name="correcte">Dades entrades correctament</string>
+</resources>

@@ -1,0 +1,94 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools" android:layout_width="match_parent"
+    android:layout_height="match_parent" android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context="net.infobosccoma.receptes.model.CreaRecepta"
+    android:orientation="vertical"
+    android:background="@color/fons"
+
+    >
+
+
+    <Spinner
+       android:scrollbarStyle="insideInset"
+        android:footerDividersEnabled="true"
+
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/spinner"
+        android:layout_gravity="center_horizontal"
+
+        android:paddingTop="10dp"
+        android:paddingBottom="10dp"
+        android:background="@drawable/spinner_bg"
+        android:textColor="#FF0000"
+        android:layoutMode="opticalBounds"
+
+
+        android:paddingStart="0dp"
+        android:touchscreenBlocksFocus="false"
+        android:theme="@android:style/TextAppearance.Holo.Widget.TextView.SpinnerItem"
+        android:clickable="true"
+        android:spinnerMode="dropdown"
+        style="@drawable/spinner_text"
+        android:paddingLeft="10dp" />
+
+    <LinearLayout
+        android:orientation="vertical"
+        android:layout_width="fill_parent"
+        android:layout_height="fill_parent"
+        android:layout_weight=".5"
+        android:layout_marginTop="15dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Titol"
+            android:id="@+id/textView" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/editTitol" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Ingredients"
+            android:id="@+id/textView2" />
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/editIngredients" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textAppearance="?android:attr/textAppearanceLarge"
+            android:text="Procediment"
+            android:id="@+id/textView3" />
+
+
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:id="@+id/editProcediment" />
+
+        <Button
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="GUARDAR"
+            android:id="@+id/guardarButton"
+            android:layout_marginTop="30dp"
+            android:background="@color/verd"
+            android:textColor="@color/fons" />
+
+    </LinearLayout>
+
+</LinearLayout>
